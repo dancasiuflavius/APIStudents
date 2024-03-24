@@ -1,0 +1,15 @@
+﻿insert into products (id, age, name, gender, date_of_birth) values (1, 25, 'John', 'Male', '1999-08-29');
+insert into products (id, age, name, gender, date_of_birth) values (2, 35, 'Mary', 'Female', '1989-06-17');
+insert into products (id, age, name, gender, date_of_birth) values (3, 28, 'David', 'Male', '1995-06-28');
+insert into products (id, age, name, gender, date_of_birth) values (4, 20, 'Jessica', 'Female', '2004-11-16');
+insert into products (id, age, name, gender, date_of_birth) values (5, 29, 'Michael', 'Male', '1994-11-01');
+insert into products (id, age, name, gender, date_of_birth) values (6, 31, 'Sarah', 'Female', '1992-01-02');
+insert into products (id, age, name, gender, date_of_birth) values (7, 28, 'Matthew', 'Male', '1995-06-27');
+insert into products (id, age, name, gender, date_of_birth) values (8, 33, 'Emily', 'Female', '1989-08-28');
+insert into products (id, age, name, gender, date_of_birth) values (9, 30, 'Daniel', 'Male', '1992-04-24');
+insert into products (id, age, name, gender, date_of_birth) values (10, 28, 'Jennifer', 'Female', '1995-06-09');
+insert into products (id, age, name, gender, date_of_birth) values (11, 31, 'Jessica', 'Female', '1992-08-20');
+insert into products (id, age, name, gender, date_of_birth) values (12, 34, 'Christopher', 'Male', '1988-05-05');
+insert into products (id, age, name, gender, date_of_birth) values (13, 27, 'Elizabeth', 'Female', '1996-12-28');
+insert into products (id, age, name, gender, date_of_birth) values (14, 29, 'William', 'Male', '1994-05-28');
+insert into products (id, age, name, gender, date_of_birth) values (15, 32, 'Jessica', 'Female', '1989-09-24');
